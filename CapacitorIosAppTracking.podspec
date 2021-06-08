@@ -8,6 +8,6 @@
     s.author = 'Mig Tam Rod'
     s.source = { :git => 'https://github.com/migtam628/capacitor-ios-app-tracking.git', :tag => s.version.to_s }
     s.source_files = 'ios/Plugin/**/*.{swift,h,m,c,cc,mm,cpp}'
-    s.ios.deployment_target  = '11.0'
+    s.ios.deployment_target  = '12.1'
     s.dependency 'Capacitor'
   end
